@@ -22,6 +22,7 @@ class ListViewBuilder extends StatelessWidget {
         final item = items[index];
         return InkWell(
           onTap: () {
+            // ignore: prefer_typing_uninitialized_variables
             var routeName;
             Navigator.pushNamed(context, ItemPage.routeName, arguments: item);
           },
