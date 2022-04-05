@@ -1,6 +1,7 @@
 # belanja
 
 A new Flutter project.
+![Screenshot (613)](https://user-images.githubusercontent.com/89988888/161692716-70042ff5-798f-40c8-a32c-84f3465f44f2.png)
 
 ## Getting Started![Screenshot (612)](https://user-images.githubusercontent.com/89988888/161692606-e120512b-4612-4721-9295-a4584d2eb756.png)
 
